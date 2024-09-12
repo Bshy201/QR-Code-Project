@@ -21,9 +21,9 @@
 ![](images/screenshot.png)
 
 
-<!-- ### Links
+### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Solution URL: (https://bshy201.github.io/QR-Code-Project/)
 
 ## My process
 
