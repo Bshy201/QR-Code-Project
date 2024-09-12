@@ -8,7 +8,7 @@
 }
 body {
     background-color: var(--Slate300);
-    font-family: "Outfit";
+    
     
 }
 img {
@@ -17,13 +17,20 @@ img {
     border-radius: 15px;
 }
 .container {
+    font-family: "Outfit";
     border-radius: 10px;
     padding: 15px;
     display: inline-block;
     width: 250px;
     background-color: var(--White);
-    
     box-shadow: 20px rgba(0, 0, 0, 0.2);
+    position: absolute;
+    top: 20%;
+    left: 0;
+    right: 0;
+    bottom: 20%;
+    margin: auto;
+    
 }
 .p1, .p2 {
     text-align: center;
