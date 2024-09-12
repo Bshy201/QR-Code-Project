@@ -1,8 +1,42 @@
+:root {
+    --White: hsl(0, 0%, 100%);
+
+    --Slate300: hsl(212, 45%, 89%);
+    --Slate500: hsl(216, 15%, 48%);
+    --Slate900: hsl(218, 44%, 22%);
+    --FontSize: 15px;
+}
 body {
-    background-color: aquamarine;
+    background-color: var(--Slate300);
+    font-family: "Outfit";
+    
+}
+img {
+    height: 250px;
+    width: 250px;
+    border-radius: 15px;
+}
+.container {
+    border-radius: 10px;
+    padding: 15px;
+    display: inline-block;
+    width: 250px;
+    background-color: var(--White);
+    
+    box-shadow: 20px rgba(0, 0, 0, 0.2);
+}
+.p1, .p2 {
+    text-align: center;
 }
 
-.container {
-    border-style: solid;
+.p1{
+    font-size: large;
+    font-weight: 700;
+    
+}
+
+.p2 {
+    font-size: var(--FontSize);
+    font-weight: 400;
 }
 
