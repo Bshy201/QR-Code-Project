@@ -18,7 +18,7 @@
 
 ### Screenshot
 
-![](qr-code-component-main/images/screenshot.png)
+![](images/screenshot.png)
 
 
 ### Links
@@ -26,7 +26,7 @@
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 
 ## My process
-
+git
 ### Built with
 
 - Semantic HTML5 markup
